@@ -1,0 +1,6 @@
+﻿  Minesweeper_functions.cpp
+C:\Users\jordi\source\repos\Minesweeper\Minesweeper\Minesweeper_functions.cpp(224,14): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\jordi\source\repos\Minesweeper\Minesweeper\Minesweeper_functions.cpp(249,14): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\jordi\source\repos\Minesweeper\Minesweeper\Minesweeper_functions.cpp(273,14): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  LINK : no se encontró C:\Users\jordi\source\repos\Minesweeper\Debug\Minesweeper.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Minesweeper.vcxproj -> C:\Users\jordi\source\repos\Minesweeper\Debug\Minesweeper.exe
